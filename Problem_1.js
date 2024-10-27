@@ -1,8 +1,4 @@
-//Sean Stack
-//Student ID: 2511132
-//COP2801 - Assignment 2
-//Professor Tillman
-//Date: 10/19/2024
+
 
 // Import the readline-sync library for user input
 const readlineSync = require('readline-sync');
